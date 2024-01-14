@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodymawasuer.github.io/sitemap.xml
